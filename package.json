@@ -1,0 +1,23 @@
+{
+  "name": "g2-rc",
+  "version": "0.1.0",
+  "description": "chart插件g2的react 封装版本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boatlet/react-g2.git"
+  },
+  "author": "boatlet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boatlet/react-g2/issues"
+  },
+  "homepage": "https://github.com/boatlet/react-g2#readme",
+  "dependencies": {
+    "g2": "^2.0.3",
+    "react": "^15.3.2"
+  }
+}
